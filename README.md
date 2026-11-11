@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Owais Khan 👋
 
-<!--
-**owaiskhan12/owaiskhan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of **Trazor IT**, a digital agency building fast, SEO-ready websites and stores.
 
-Here are some ideas to get you started:
+## What I do
+- WordPress and WooCommerce development
+- Shopify development (Liquid, theme customization)
+- Technical SEO and Core Web Vitals
+- Custom PHP web apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+- Agency: [trazorit.com](https://trazorit.com)
+- Free tool: [StoreScan, Shopify & WooCommerce store health checker](https://tools.trazorit.com)
+- Upwork: Rising Talent, 100% Job Success
+- LinkedIn: [Trazor IT](https://www.linkedin.com/company/trazor-it)
+
+Open to new projects. Message me via [trazorit.com](https://trazorit.com).
